@@ -14,9 +14,8 @@ Travel Blog allows me to document, share my adventures and memories with everyon
 ​
 ## Installation Instructions
 ​
-- Clone our repo to your computer
 ​
-- ...
+- To run this on your own computer you can copy the repo at https://github.com/hieule411/Travel-Blog.git. After that you will need to npm install and run the command npm run seed to seed the database. After that it npm start will start the application.
 ​
 ​
 ## Animated Gifs/Pictures of App
@@ -25,11 +24,10 @@ Travel Blog allows me to document, share my adventures and memories with everyon
 ​
 ## Tech Stack
 ​
-- What languages is it written with: 
-​
-- What libraries are used: 
-​
-- Other: 
+React, 
+Node.js, 
+Express.js,
+MongoDB 
 ​
 ​
 ## APIs
